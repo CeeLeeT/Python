@@ -3,6 +3,12 @@
 # Repeats what user types.
 #
 # Make sure you have MS Speech SDK installed
+
+#  DOWNLOAD HERE
+#                  https://www.microsoft.com/en-us/download/details.aspx?id=10121
+#
+#
+
 # and registered with the MakePy tool in PythonWin.
 #
 import sys
