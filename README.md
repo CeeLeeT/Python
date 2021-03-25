@@ -3,7 +3,7 @@
 ### Online IDE:
 http://pythontutor.com/visualize.html#mode=display  
 
-
+### Snippets:
 https://therenegadecoder.com/code/python-code-snippets-for-everyday-problems/
 
 ```
